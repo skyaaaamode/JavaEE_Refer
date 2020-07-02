@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='GBK' standalone='yes'?>
+<users>
+    <user id="1">
+        <name>zzf</name>
+        <age>18</age>
+        <sex>男</sex>
+    </user>
+    <user id="2">
+        <name>zzf02</name>
+        <age>18</age>
+        <sex> <![CDATA[a>b a&b]]></sex>
+    </user>
+
+</users>
