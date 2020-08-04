@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="html" />
         <module name="Xml" />
+        <module name="css" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
