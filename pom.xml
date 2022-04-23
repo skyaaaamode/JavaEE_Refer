@@ -14,7 +14,7 @@
         <module>css</module>
     </modules>
     <properties>
-        <spring.version>5.0.2.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
     </properties>
     <dependencies>
         <dependency>
